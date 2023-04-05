@@ -21,7 +21,36 @@
 </head>
 
 <body>
-
+  <nav class="navbar navbar-expand-sm navbar-light bg-light">
+    <div class="container">
+    <a class="navbar-brand" href="#">daalderink</a>
+    <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId"
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavId">
+      <ul class="navbar-nav me-auto mt-2 mt-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" href="index.html" aria-current="page">Home <span class="visually-hidden">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">plan van aanpak</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+          <div class="dropdown-menu" aria-labelledby="dropdownId">
+            <a class="dropdown-item" href="#">Action 1</a>
+            <a class="dropdown-item" href="#">Action 2</a>
+          </div>
+        </li>
+      </ul>
+      <form class="d-flex my-2 my-lg-0">
+        <input class="form-control me-sm-2" type="text" placeholder="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
 
   <div class="container">
     <div class="row">
@@ -30,28 +59,29 @@
       </div>
       <div class="col-md-4">
         <div class="card">
-          <img class="card-img-top" src="https://i.gifer.com/XwI7.gif" alt="Title">
+          <img class="card-img-top img-fluid" src="https://i.gifer.com/XwI7.gif" alt="Title">
           <div class="card-body">
             <h4 class="card-title">Mijn missie</h4>
-            <p class="card-text">mijn missie voor deze portfolio is om ervoor te zorgen dat mijn oude portfolio te
-              verbeteren en met trots laten zien hoe mijn stijl is veranderd en wat ik allemaal kan en heb geleerd.</p>
+            <p class="card-text">mijn missie voor deze portfolio is om ervoor te zorgen dat mijn oude portfolio word
+              verbeterd en met trots kan laten zien hoe mijn stijl is veranderd en wat ik allemaal kan en heb geleerd.</p>
             <button class="">Speel geluid af</button>
           </div>
         </div>
       </div>
       <div class="col-md-4">
         <div class="card">
-          <img class="card-img-top" src="https://i.imgflip.com/72ra2b.gif" alt="Title">
+          <img class="card-img-top img-fluid" src="https://i.imgflip.com/72ra2b.gif" alt="Title">
           <div class="card-body">
-            <h4 class="card-title"></h4>
-            <p class="card-text">Text</p>
+            <h4 class="card-title">Doelstelling</h4>
+            <p class="card-text">Hier wil ik graag al mijn technieken laten zien wat ik bijvoorbeeld wel en niet kan</p>
           </div>
         </div>
       </div>
       <div class="col-md-12">
         <div class="table-responsive">
+          <h1>Leerdoelen</h1>
           <table class="table table-info">
-            <h1>Leerdoelen</h1>
+            
             <thead>
               <tr>
                 <th scope="col">#</th>
@@ -83,6 +113,27 @@
                 <td>JavaScript en HTML</td>
                 <td>X</td>
               </tr>
+              <tr class="">
+                <td scope="row">4</td>
+                <td>animated CSS grid</td>
+                <td><a href="https://css-tricks.com/animating-css-grid-how-to-examples/">bron</a></td>
+                <td>CSS</td>
+                <td>X</td>
+              </tr>
+              <tr class="">
+                <td scope="row">5</td>
+                <td>chartjs</td>
+                <td><a href="https://www.chartjs.org">bron</a></td>
+                <td>JavaScript</td>
+                <td>X</td>
+              </tr>
+              <tr class="">
+                <td scope="row">6</td>
+                <td>discord bot</td>
+                <td><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6avBYxeBSwF48YhAnSn_sA4">bron</a></td>
+                <td>JavaScript</td>
+                <td>X</td>
+              </tr>
             </tbody>
           </table>
         </div>
@@ -90,10 +141,8 @@
       </div>
     </div>
   </div>
-  <footer>
-    <!-- place footer here -->
-  </footer>
-
+ 
 </body>
-
+<!-- eigen JS! -->
+<script src="js/plan-van-aanpak.js"></script>
 </html>
