@@ -74,7 +74,7 @@ for (let index = 0; index < profile.abilities.length; index++) {
 for (let index = 0; index < profile.projects.length; index++) {
     const element = profile.projects[index];
     const card = 
-    `<div class"col-md-4"><div class="card">
+    `<div class="col-md-4"><div class="card">
         <img class="card-img-top img-fluid" src="` + element.image +`" alt="Title">
         <div class="card-body">
             <h4 class="card-title">` + element.title + `</h4>
