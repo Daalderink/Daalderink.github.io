@@ -50,8 +50,21 @@ const profile = {
         }
     ],
     courses: "Software Developer",
-    bannerImage: "https://img.lovepik.com/background/20211021/large/lovepik-cool-line-technology-banner-background-image_400112106.jpg",
-    abilities: ["JS king", "HTML prince", "BS5 lord", "CSS emperor", "Story gamer"]
+    bannerColor: "rgb(155,0,0)",
+    abilities: ["JS king", "HTML prince", "BS5 lord", "CSS emperor", "Story gamer"],
+    socials: [{
+        title : "Instagram",
+        URL: "https://www.instagram.com/daalderink16/",
+        imgURL: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
+    },{
+        title : "Steam",
+        URL: "https://steamcommunity.com/id/Daalderink/",
+        imgURL: "https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png"
+    },{
+        title : "YouTube",
+        URL: "https://www.youtube.com/channel/UCrrpfd5y9u_qW63zGhsXiDg",
+        imgURL: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
+    }]
 };
 console.log(profile.projects.teamMates);
 
@@ -67,10 +80,11 @@ const courses = document.querySelector(".courses")
 myUsername.innerHTML = profile.userName
 myPfp.innerHTML = '<img class="image-fluid rounded-circle small" src="' + profile.pfp + '" alt="">'
 email.innerHTML = profile.email
-banner.innerHTML = '<img class="image-fluid" src="' + profile.bannerImage + '" alt="">'
+banner.style.backgroundColor = profile.bannerColor
 birthDate.textContent = profile.birthDate
 biography.textContent = profile.biography
 courses.textContent = "opleidingen die ik heb gevolgd: " + profile.courses
+const socials = document.querySelector(".socials")
 
 for (let index = 0; index < profile.abilities.length; index++) {
     const abilitie = profile.abilities[index];
@@ -91,4 +105,15 @@ for (let index = 0; index < profile.projects.length; index++) {
         </div>
     </div></div>`
     projects.innerHTML += card
+}
+for (let index = 0; index < profile.socials.length; index++) {
+    const social = profile.socials[index];
+    const card = `<div class="col-md-4"><div class="card border-primary">
+      <img class="card-img-top" src="` + social.imgURL + `" alt="Title">
+      <div class="card-body">
+        <h4 class="card-title">` + social.title + `</h4>
+        <p class="card-text"><a href="` + social.URL + `">Naar social</a></p>
+      </div>
+    </div></div>`
+    socials.innerHTML += card
 }
