@@ -95,7 +95,7 @@ for (let index = 0; index < profile.projects.length; index++) {
     const project = profile.projects[index]; 
    
     const card = 
-    `<div class="col-md-4"><div class="card">
+    `<div class="col-md-4 d-flex align-items-stretch"><div class="card d-flex align-items-stretch">
         <img class="card-img-top img-fluid" src="` + project.image +`" alt="Title">
         <div class="card-body">
             <h4 class="card-title">` + project.title + `</h4>
@@ -108,7 +108,7 @@ for (let index = 0; index < profile.projects.length; index++) {
 }
 for (let index = 0; index < profile.socials.length; index++) {
     const social = profile.socials[index];
-    const card = `<div class="col-md-4"><div class="card border-primary">
+    const card = `<div class="col-md-4"><div class="card border-primary ">
       <img class="card-img-top smaller-img img-fluid" src="` + social.imgURL + `" alt="Title">
       <div class="card-body">
         <h4 class="card-title">` + social.title + `</h4>
