@@ -1,9 +1,9 @@
 const profile = {
     userName: "Daalderink",
-    biography: "Ik ben een jochie die het leuk vind om te programmeren. Gamen vind ik ook erg leuk om te doen",
+    biography: "Ik ben een jongen van 17 die het leuk vind om te programmeren. Gamen vind ik ook erg leuk om te doen",
     email: "david@aalderink.nl",
     birthDate: "19-7-2005",
-    pfp: "img/logo.png",
+    pfp: "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655426867947525~c5_720x720.jpeg?x-expires=1681977600&x-signature=8OLdTn9%2BkoJBTfwF7NgBJV8BcEY%3D",
     projects: [
         {
             title: "hoger lager",
@@ -51,7 +51,7 @@ const profile = {
     ],
     courses: "Software Developer",
     bannerColor: "rgb(155,0,0)",
-    abilities: ["JS king", "HTML prince", "BS5 lord", "CSS emperor", "Story gamer"],
+    abilities: ["JS programmeur", "HTML kenner", "BS5 profesional", "CSS ", "Story gamer"],
     socials: [{
         title : "Instagram",
         URL: "https://www.instagram.com/daalderink16/",
@@ -63,7 +63,7 @@ const profile = {
     },{
         title : "YouTube",
         URL: "https://www.youtube.com/channel/UCrrpfd5y9u_qW63zGhsXiDg",
-        imgURL: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
+        imgURL: "https://cdn-icons-png.flaticon.com/512/3670/3670147.png"
     }]
 };
 console.log(profile.projects.teamMates);
@@ -109,7 +109,7 @@ for (let index = 0; index < profile.projects.length; index++) {
 for (let index = 0; index < profile.socials.length; index++) {
     const social = profile.socials[index];
     const card = `<div class="col-md-4"><div class="card border-primary">
-      <img class="card-img-top" src="` + social.imgURL + `" alt="Title">
+      <img class="card-img-top smaller-img img-fluid" src="` + social.imgURL + `" alt="Title">
       <div class="card-body">
         <h4 class="card-title">` + social.title + `</h4>
         <p class="card-text"><a href="` + social.URL + `">Naar social</a></p>
