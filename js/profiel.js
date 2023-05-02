@@ -51,7 +51,7 @@ const profile = {
     ],
     courses: "Software Developer",
     bannerColor: "rgb(155,0,0)",
-    abilities: ["JS programmeur", "HTML kenner", "BS5 profesional", "CSS ", "Story gamer"],
+    abilities: ["JS programmeur", "HTML kenner", "BS5 professional", "CSS ", "Story gamer"],
     socials: [{
         title : "Instagram",
         URL: "https://www.instagram.com/daalderink16/",

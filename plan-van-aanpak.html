@@ -21,7 +21,11 @@
     </script>
 
     <!-- eigen JS! -->
-<script defer src="js/plan-van-aanpak.js"></script>
+  <script defer src="js/plan-van-aanpak.js"></script>
+  <!-- audio -->
+  <audio class="victory-sound">
+    <source src="audio/Victory - Sound Effect.mp3">
+  </audio>
 </head>
 
 <body class="bg-dark">
@@ -38,13 +42,14 @@
           <a class="nav-link active" href="index.html" aria-current="page">Home <span class="visually-hidden">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled" href="#">plan van aanpak</a>
+          <a class="nav-link disabled" href="#">Plan van aanpak</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
           <div class="dropdown-menu" aria-labelledby="dropdownId">
             <a class="dropdown-item" href="profiel.html">Profiel</a>
             <a class="dropdown-item" href="About-me.html">About me</a>
+            <a class="dropdown-item" href="projects.html">Projects</a>
           </div>
         </li>
       </ul>
@@ -76,6 +81,15 @@
           </div>
         </div>
       </div>
+      <div class="col-md-4 d-flex align-items-stretch">
+        <div class="card">
+          <img class="card-img-top img-fluid" src="https://static.toiimg.com/photo/msid-93361092/93361092.jpg" alt="Title">
+          <div class="card-body">
+            <h4 class="card-title">Resultaten</h4>
+            <p class="card-text"><button class="play-button">Resultaat voor geluid afspelen</button></p>
+          </div>
+        </div>
+      </div>
       <div class="col-md-12">
         <div class="table-responsive">
           <h1 class="bg-secondary text-white">Leerdoelen</h1>
@@ -97,7 +111,7 @@
                 <td>geluid afspelen met de druk op een knop</td>
                 <td><a href="https://www.w3schools.com/jsref/met_audio_play.asp">bron</a></td>
                 <td>JavaScript en HTML</td>
-                <td>X</td>
+                <td>V</td>
               </tr>
               <tr class="">
                 <td scope="row">2</td>
