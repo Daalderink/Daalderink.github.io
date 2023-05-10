@@ -3,7 +3,7 @@ const profile = {
     biography: "Ik ben een jongen van 17 die het leuk vind om te programmeren. Gamen vind ik ook erg leuk om te doen",
     email: "david@aalderink.nl",
     birthDate: "19-7-2005",
-    pfp: "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1655426867947525~c5_720x720.jpeg?x-expires=1681977600&x-signature=8OLdTn9%2BkoJBTfwF7NgBJV8BcEY%3D",
+    pfp: "https://static.vecteezy.com/system/resources/previews/002/318/271/original/user-profile-icon-free-vector.jpg",
     projects: [
         {
             title: "hoger lager",
