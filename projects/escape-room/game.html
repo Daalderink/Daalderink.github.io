@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title><link rel="stylesheet" type="text/css" href="projects/escape-room/css/game.css">
+</head>
+<body class="body">
+    
+    <script type="application/javascript" src="projects/escape-room/js/game.js"></script>
+
+        <article><video  class="timer" autoplay><source src="projects/escape-room/videos/5 MINUET - TIMER  ALARM - Full HD - COUNTDOWN.mp4"></video></article>
+
+<audio controls autoplay hidden loop>
+
+<source src="projects/escape-room/audio/SCP Containment Breach Soundtrack The Dread extended.mp3">
+
+</audio>
+<article class="maindoor">
+    <img class="frontdoor" onclick="clickFrontDoor()"  src="projects/escape-room/interactions/Door.png">
+    <a href="projects/escape-room/ending.html"><img hidden id="opendoor" src="projects/escape-room/interactions/items/First Room/open.png" ></a>
+    <img class="keycardscanner" onclick="keycardScanner()" src="projects/escape-room/interactions/items/First Room/Key Scanner.png">
+    <img class="keypad" onclick="numberPad()" src="projects/escape-room/interactions/items/First Room/Number Pad.png">
+    
+</article>
+<article class="livingroom">
+    <img class="couch" onclick="clickCouch()" src="projects/escape-room/interactions/items/Living Room/Couch.png" title="kijk onder de bank">
+    <img class="table" src="projects/escape-room/interactions/items/Living Room/table.png">
+<img class="tv" src="projects/escape-room/interactions/items/Living Room/TV.png">
+<img class="newspaper" src="projects/escape-room//interactions/items/Living Room/edgein.png">
+</article>    
+<article class="kitchen">
+    <img class="cabinet" src="projects/escape-room/interactions/items/Kitchen/Kitchen Drawer 6.png" title="kijk in het kastje" onclick="cabinet()">
+    <img class="fridge" src="projects/escape-room/interactions/items/Kitchen/Fridge.png" title="kijk in de koelkast" onclick="openFridge()">
+    <img class="bigcabinet" src="projects/escape-room/interactions/items/Kitchen/Kitchen Drawer 4.png" onclick="findCrowbar()" title="kijk in de kast">
+</article>
+<article class="basement">
+    <img class="cage" src="projects/escape-room/interactions/items/Basement/cage.png">
+    <img class="paper" src="projects/escape-room/interactions/items/Basement/paper.png">
+    <img class="deadbody" src="projects/escape-room/interactions/items/Basement/body.png">
+
+
+</article>
+<article class="attic">
+    <img class="crate" src="projects/escape-room/interactions/items/First Room/Crate.png" title="open de krat" onclick="opencrate()">
+</article>
+</body>
+</html>

@@ -1,0 +1,49 @@
+
+  body {
+    background-image: url(/Backgrounds/HomePage.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 75%;
+    position: relative;
+    background-color: black;
+  }
+  
+ 
+
+
+
+
+
+.Title {
+  color: black;
+  position: relative;
+  left: 40%;
+  top: 80px;
+  font-size: 80px;
+  text-decoration: none;
+
+}
+
+
+
+
+.Start a:hover :link :visited :active{
+  text-decoration: none;
+  color: red;
+
+}
+.Start{ 
+  color: black;
+  text-decoration: none;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 50%;
+  margin-top: 10%;
+  background-color: darkblue;
+  width: 10%;
+}
+
+.Pvz{
+  float: right;
+}

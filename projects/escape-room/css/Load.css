@@ -1,0 +1,31 @@
+body{
+background-image: url(/Gifs/Loading.gif);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+a:hover :link :visited :active{
+    text-decoration: none;
+    color: black;
+    
+   
+}
+
+.Monster1 {
+    
+    position: relative;
+    left: 700px;
+    top: 100px;
+    transition: transform .1s; 
+    width: 20px;
+    height: 20px;
+    margin: 0 auto;
+  }
+
+  .Monster1:hover {
+    animation-duration: 8s;
+    animation-delay: 4s;
+    transform: scale(100);
+    position: relative;
+    margin-top: 400px;
+
+  }

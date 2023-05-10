@@ -1,0 +1,156 @@
+body{
+
+    background-color: black;
+}
+.frontdoor{
+margin-left: 2%;
+margin-top: 11% ;
+    position: center;
+    width: 7%;
+    height: 20%;
+    position: absolute;
+    bottom : 56.5% ;
+}
+.frontdoor :hover{
+    cursor: pointer;
+
+}
+
+.couch{
+width: 20%;
+height: 50%;
+
+}
+.fridge{
+margin-left: 12%;
+margin-top: 12%;
+height: 30%;
+
+}
+
+.fridge :hover{
+    cursor: pointer;
+}
+
+.maindoor{
+    width: 100%;
+    height: 500px;
+    background-image: url(/backgrounds/maindoor.png);
+    background-repeat: no-repeat;
+    margin-left: 25%;
+}
+.livingroom{
+    background-image: url(/backgrounds/livingroom.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    margin-left: 25%;
+}
+.keycardscanner{
+    width: 3%;
+    height: 7%;
+    margin-top: 13%;
+    margin-left: 10%;
+    position: absolute;
+    z-index: 2;
+}
+
+.keypad{
+    width: 3.5%;
+    height: 10%;
+    margin-left: 10%;
+    float: left;
+    margin-top: 13%;
+}
+.kitchen{
+    background-image: url(/interactions/items/Kitchen/kitchenpng.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+        margin-left: 25%;
+}
+#opendoor{
+    height: 30%;
+    width: 14%;
+position: relative;
+margin-top: 11% ;
+z-index: 1;
+right: 5%;
+display: none;
+}
+.basement{
+    background-image: url(/backgrounds/Basement.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    margin-left: 25%;
+}
+.cage{
+    margin-left: 4.6%;
+    margin-top: 5%;
+    position: absolute;
+}
+.paper{
+    width: 5%;
+}
+
+.deadbody{
+    margin-top: 20%;
+}
+
+.cabinet{
+    margin-left: 177px;
+    margin-bottom: 110px;
+    width: 25px;
+    height: 68px;
+}
+.cabinet :hover{
+    cursor: pointer;
+}
+.attic{
+    background-image: url(/backgrounds/Attic.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    margin-left: 25%;
+}
+.crate{
+    width: 10%;
+    height: 20%;
+    margin-left: 17%;
+    margin-top: 20%;
+}
+.crate :hover{
+    cursor: pointer;
+}
+.bigcabinet{
+    margin-left: 3%;
+    height: 110px;
+}
+.bigcabinet :hover{
+    cursor: pointer;
+}
+.table{
+    width: 10%;
+    height :20%;
+    position:absolute;
+    margin-top: 10%;
+
+}
+.tv{
+    width :10%;
+    height : 25%;
+    margin-bottom: 7%;
+z-index: 1;
+position: relative;
+}
+.newspaper{
+    width: 10%;
+    height:15%;
+    margin-top: 15%;
+}
+.timer{
+    height: 5%;
+    width: 5%;
+    float: right;
+}
