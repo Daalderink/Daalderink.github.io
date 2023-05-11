@@ -41,7 +41,7 @@ const projects = [
         title: "Dashboard",
         description: "Een dashboard",
         imgURL: "https://boomerank.nl/wp-content/uploads/2020/03/KPI-dashboard-770x466.jpg",
-        projectLink: "projects/dashboard/index.html"
+        projectLink: "projects/dash/home.html"
     }
 ]
 
