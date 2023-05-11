@@ -1,0 +1,62 @@
+
+body{
+    background-image: url(/images/homepage.png);
+    background-repeat: no-repeat;
+    background-size: 1500px 900px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.header{
+    width: 25%;
+    height: 15%;
+    background-color: goldenrod;
+    color: black;
+    text-align: center;
+    margin-left: 35%;
+}
+.wrapper{
+    margin: auto;
+}
+.play-button{
+    background-color: yellow;
+    width: 15%;
+    height: 70px;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 10%;
+    font-size: 125%;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.play-button:hover{
+    cursor: pointer;
+}
+
+
+
+@media screen and (max-width: 380px) {
+    body{
+        background-size: 380px 679px ;
+    }
+    .header{
+        width: 370px;
+        height: 75px;
+        margin-left: 0px;
+    }
+    .pvp{
+        width: 150px;
+        height: 20px;
+    }
+    .pve{
+        width: 15%;
+        height: 20px;
+    }
+
+}
+
+
+
