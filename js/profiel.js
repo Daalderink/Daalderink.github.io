@@ -1,5 +1,5 @@
 const profile = {
-    userName: "Daalderink",
+    userName: "David Aalderink",
     biography: "Ik ben een jongen van 17 die het leuk vind om te programmeren. Gamen vind ik ook erg leuk om te doen",
     email: "david@aalderink.nl",
     birthDate: "19-7-2005",
