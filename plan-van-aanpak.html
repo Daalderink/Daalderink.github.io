@@ -11,19 +11,11 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     
-  <!-- Bootstrap JavaScript Libraries -->
-  <script defer src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
-    integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous">
-    </script>
-
-  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js"
-    integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous">
-    </script>
-
-    <!-- eigen JS! -->
-  <script defer src="js/plan-van-aanpak.js"></script>
+  
   <!-- favicon -->
   <link rel="shortcut icon" href="https://icons.veryicon.com/png/o/education-technology/management-icon/plan-28.png" type="image/x-icon">
+  <!-- animate.css -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 </head>
 
 <body class="bg-dark">
@@ -63,7 +55,7 @@
       <div class="col-md-12 bg">
         <h1 class="bg-secondary text-white">Plan van aanpak</h1>
       </div>
-      <div class="col-md-4 d-flex align-items-stretch">
+      <div class="col-md-6 d-flex align-items-stretch">
         <div class="card">
           <img class="card-img-top img-fluid" src="https://www.projectmanager.com/wp-content/uploads/2018/11/181112_Blog_Feature_Mission.jpg" alt="Title">
           <div class="card-body">
@@ -73,21 +65,12 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4 d-flex align-items-stretch">
+      <div class="col-md-6 d-flex align-items-stretch">
         <div class="card">
           <img class="card-img-top img-fluid" src="https://www.oberlo.com/media/1608236387-goalfea.jpg" alt="Title">
           <div class="card-body">
             <h4 class="card-title">Doelstelling</h4>
-            <p class="card-text">Hier wil ik graag al mijn technieken laten zien wat ik bijvoorbeeld wel en niet kan</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4 d-flex align-items-stretch">
-        <div class="card">
-          <img class="card-img-top img-fluid" src="https://static.toiimg.com/photo/msid-93361092/93361092.jpg" alt="Title">
-          <div class="card-body">
-            <h4 class="card-title">Resultaten</h4>
-            <p class="card-text"><button class="play-button">Resultaat voor geluid afspelen</button></p>
+            <p class="card-text">Hier wil ik graag al mijn technieken laten zien wat ik bijvoorbeeld wel en niet kan. Al mijn leerdoelen kan je <a href="#table">hier</a> vinden.</p>
           </div>
         </div>
       </div>
@@ -95,7 +78,7 @@
         <div class="table-responsive">
           <h1 class="bg-secondary text-white">Leerdoelen</h1>
           <p class="bg-secondary text-white">X==Niet klaar && V==Klaar</p>
-          <table class="table table-secondary">
+          <table class="table table-secondary" id="table">
             
             <thead>
               <tr>
@@ -119,7 +102,7 @@
                 <td>geanimeerde tekst</td>
                 <td><a href="https://animate.style">bron</a></td>
                 <td>CSS</td>
-                <td>X</td>
+                <td>V</td>
               </tr>
               <tr class="">
                 <td>3</td>
@@ -140,7 +123,7 @@
                 <td>chartjs</td>
                 <td><a href="https://www.chartjs.org">bron</a></td>
                 <td>JavaScript</td>
-                <td>X</td>
+                <td>V</td>
               </tr>
               <tr class="">
                 <td>6</td>
@@ -155,7 +138,35 @@
         
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-12 d-flex align-items-stretch">
+        <div class="card">
+          <img class="card-img-top img-fluid" src="https://static.toiimg.com/photo/msid-93361092/93361092.jpg" alt="Title">
+          <div class="card-body">
+            <h4 class="card-title">Resultaten</h4>
+            <p class="card-text"><button class="play-button">Resultaat voor geluid afspelen</button></p>
+            <p class="card-text animate__animated animate__fadeInUp">resultaat van geanimeerde tekst</p>
+            <canvas class="chart"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
- 
+  <!-- chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.3.0/dist/chart.umd.min.js"></script>
+ <!-- eigen JS! -->
+<script src="js/plan-van-aanpak.js"></script>
+
 </body>
+<!-- Bootstrap JavaScript Libraries -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous">
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js"
+integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous">
+</script>
+
+
+
 </html>

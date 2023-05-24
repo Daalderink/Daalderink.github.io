@@ -108,12 +108,12 @@ for (let index = 0; index < profile.projects.length; index++) {
 }
 for (let index = 0; index < profile.socials.length; index++) {
     const social = profile.socials[index];
-    const card = `<div class="col-md-4"><div class="card border-primary ">
-      <img class="card-img-top smaller-img img-fluid" src="` + social.imgURL + `" alt="Title">
+    const card = `<div class="col-md-3"><div class="card border-primary">
+      <img class="card-img-top img-fluid" src="` + social.imgURL + `" alt="Title">
       <div class="card-body">
         <h4 class="card-title">` + social.title + `</h4>
         <p class="card-text"><a href="` + social.URL + `">Naar social</a></p>
       </div>
-    </div></div>`
+    </div></div><div class="col-md-1"></div>`
     socials.innerHTML += card
 }
