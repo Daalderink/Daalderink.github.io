@@ -6,7 +6,7 @@ const projects = [
         projectLink: "projects/homepage project/index.html"
     }, {
         title: "The Joy Of Creation Remake",
-        description: "Ik ben bezig om de horror game 'The Joy Of Creation' na te maken in mijn eigen stijl. Hier gaat Godot engine voor worden gebruikt. Ik ga hier samen met een vriend aan samenwerken zodat het een beetje sneller kan gaan dan in mijn eentje.",
+        description: "Ik ben bezig om de horror game 'The Joy Of Creation' na te maken in mijn eigen stijl. Hier gaat Godot engine voor worden gebruikt. Ik ga hier samen met een vriend aan samenwerken zodat het een beetje sneller kan gaan dan in mijn eentje. Alle credits gaan sowieso naar de originele maker van de game die je <a href='https://gamejolt.com/@Nikson_Official'>hier</a> kan vinden.",
         imgURL: "https://steamuserimages-a.akamaihd.net/ugc/942811960710688826/B38E02DC75520DB1BBAAFC0FD49E29AC9CE8FC3B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     }, {
         title: "Slender: The Missing Soul",
