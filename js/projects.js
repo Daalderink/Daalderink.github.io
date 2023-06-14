@@ -12,7 +12,7 @@ const projects = [
         title: "Slender: The Missing Soul",
         description: "Ik ben voor het keuzedeel gamedesign bezig om een videogame te maken. Ik werk hier dan samen in een groep. Het lijkt mij wel leuk om deze game te publiceren zodat mensen het kunnen spelen. Dit is ook de eerste keer dat ik met een game engine heb gewerkt dus heb ik ook die programmeertaal moeten leren",
         imgURL: "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2014_23/491626/140606-slender-man-mn-735.jpg",
-        projectLink: "https://github.com/ROCMondriaanTIN/sd22-p04-kdl-gp-game-slender-the-missing-soul"
+        projectLink: "https://gamejolt.com/games/slender_the_missing_soul-bf3gac/815259"
     }, {
         title: "The Norse man",
         description: "Ik ben van plan om een videogame te maken die te maken heeft met de Noorse mythologie. Het gaat gedeelte een beetje gebaseerd zijn op de nieuwere God of War games. Ik vind de Noorse mythologie zelf erg interessant om meer van te weten dus ik ben van plan om belangrijke Noorse mythologie gebeurtenissen erin te stoppen zoals Ragnarök.",
@@ -34,12 +34,12 @@ const projects = [
         projectLink: "projects/escape-room/Start.html"
     }, {
         title: "Vier op een rij",
-        description: "Voor de tweede themaweek mocht je zelf kiezen wat voor website je wilde maken. Ik heb daarvoor Vier op een rij gekozen. Het lijkt wel een beetje op boter kaas en eieren alleen is het een veel groter veld dan 3x3 en ze moeten naar beneden vallen. de technieken waren hier redelijk gelijk aan boter kaas en eieren.",
+        description: "Voor de tweede themaweek mocht je zelf kiezen wat voor website je wilde maken. Ik heb daarvoor Vier op een rij gekozen. Het lijkt wel een beetje op boter kaas en eieren alleen is het een veel groter veld dan 3x3 en ze moeten naar beneden vallen. De technieken waren hier redelijk gelijk aan boter kaas en eieren.",
         imgURL: "https://api.bruna.nl/images/active/carrousel/fullsize/5010993724178_back.jpg",
         projectLink: "projects/vier/index.html"
     }, {
         title: "Dashboard",
-        description: "Voor periode 4 van het eerste jaar moesten wij een dashboard pagina maken van onderwerpen die ons werd toegewezen waaruit wij konden kiezen. In deze dashboard pagina kan je een kijkje nemen naar de valutakoers, naar arcade games en een weerstation",
+        description: "Voor periode 4 van het eerste jaar moesten wij een dashboard pagina maken van onderwerpen die ons werd toegewezen waaruit wij konden kiezen. In deze dashboard pagina kan je een kijkje nemen naar de valutakoers, naar arcade games en een weerstation. Ik heb bij dit project vooral complexe berekeninge moeten toepassen zoals het gemmidelde berekenen, het kleinste of grootste getal uit een array halen en Chartjs gebruiken.",
         imgURL: "https://boomerank.nl/wp-content/uploads/2020/03/KPI-dashboard-770x466.jpg",
         projectLink: "projects/dash/home.html"
     }
