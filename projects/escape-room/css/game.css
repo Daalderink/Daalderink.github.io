@@ -35,12 +35,12 @@ height: 30%;
 .maindoor{
     width: 100%;
     height: 500px;
-    background-image: url(/backgrounds/maindoor.png);
+    background-image: url(/projects/escape-room/backgrounds/maindoor.png);
     background-repeat: no-repeat;
     margin-left: 25%;
 }
 .livingroom{
-    background-image: url(/backgrounds/livingroom.png);
+    background-image: url(/projects/escape-room/backgrounds/livingroom.png);
     background-repeat: no-repeat;
     width: 100%;
     height: 500px;
@@ -63,7 +63,7 @@ height: 30%;
     margin-top: 13%;
 }
 .kitchen{
-    background-image: url(/interactions/items/Kitchen/kitchenpng.png);
+    background-image: url(/projects/escape-room/interactions/items/Kitchen/kitchenpng.png);
     background-repeat: no-repeat;
     width: 100%;
     height: 500px;
@@ -79,7 +79,7 @@ right: 5%;
 display: none;
 }
 .basement{
-    background-image: url(/backgrounds/Basement.png);
+    background-image: url(/projects/escape-room/backgrounds/Basement.png);
     background-repeat: no-repeat;
     width: 100%;
     height: 500px;
@@ -108,7 +108,7 @@ display: none;
     cursor: pointer;
 }
 .attic{
-    background-image: url(/backgrounds/Attic.png);
+    background-image: url(/projects/escape-room/backgrounds/Attic.png);
     background-repeat: no-repeat;
     width: 100%;
     height: 500px;

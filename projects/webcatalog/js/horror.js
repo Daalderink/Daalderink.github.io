@@ -80,7 +80,7 @@ function openTt(){
     window.location.href = "https://store.steampowered.com/app/568090/Tattletail/";
 }
 function returnHome(){
-    window.location.href = "/index.html";
+    window.location.href = "/projects/webcatalog/index.html";
 }
 function scratchLink(){
     window.location.href = "https://scratch.mit.edu/users/Nathan15022006/";
@@ -96,7 +96,7 @@ function goToUbisoft(){
 }
 
 function playFnafSound(){ 
-    let audio = new Audio("/audio/Fnaf 1 Full Jumpscare Sound.mp3");
+    let audio = new Audio("/projects/webcatalog/audio/Fnaf 1 Full Jumpscare Sound.mp3");
     audio.loop = false;
     audio.play(1)
     fnaf.addEventListener("mouseout", stopFnafSound);
@@ -107,7 +107,7 @@ function playFnafSound(){
 }
 }
 function playTtSound(){ 
-    let audio = new Audio("/audio/TattleTail Thats Me [SoundEffect].mp3");
+    let audio = new Audio("/projects/webcatalog/audio/TattleTail Thats Me [SoundEffect].mp3");
     audio.loop = false;
     audio.play(1);
     tt.addEventListener("mouseout", stopTtSound);
@@ -118,7 +118,7 @@ function playTtSound(){
     }
 }
 function playGrannySound(){ 
-    let audio = new Audio("/audio/Granny Baseball Bat Jumpscare Sound Effect.mp3");
+    let audio = new Audio("/projects/webcatalog/audio/Granny Baseball Bat Jumpscare Sound Effect.mp3");
     audio.loop = false;
     audio.play(1)
     granny.addEventListener("mouseout", stopGrannySound);
@@ -129,7 +129,7 @@ function playGrannySound(){
 }
 }
 function playLnSound(){ 
-    let audio = new Audio("/audio/Little Nightmares OST _Prison Toys_.mp3");
+    let audio = new Audio("/projects/webcatalog/audio/Little Nightmares OST _Prison Toys_.mp3");
     audio.loop = false;
     audio.play(1)
     ln.addEventListener("mouseout", stopLnSound);
@@ -140,7 +140,7 @@ function playLnSound(){
 }
 }
 function playSlenderSound(){ 
-    let audio = new Audio("/audio/slenderman sound effect.mp3");
+    let audio = new Audio("/projects/webcatalog/audio/slenderman sound effect.mp3");
     audio.loop = false;
     audio.play(1)
     slender.addEventListener("mouseout", stopSlenderSound);
@@ -151,7 +151,7 @@ function playSlenderSound(){
 }
 }
 function playFridaySound(){ 
-    let audio = new Audio("/audio/Friday the 13th_ the game Ki Ki Ki Ma Ma Ma sound effect.mp3");
+    let audio = new Audio("/projects/webcatalog/audio/Friday the 13th_ the game Ki Ki Ki Ma Ma Ma sound effect.mp3");
     audio.loop = false;
     audio.play(1)
     friday.addEventListener("mouseout", stopFridaySound);
@@ -162,7 +162,7 @@ function playFridaySound(){
 }
 }
 function playSjmSound(){ 
-    let audio = new Audio("/audio/Spooky's jumpscare mansion Player Damage sound effect.mp3");
+    let audio = new Audio("/projects/webcatalog/audio/Spooky's jumpscare mansion Player Damage sound effect.mp3");
     audio.loop = false;
     audio.play(1)
     sjm.addEventListener("mouseout", stopSjmSound);
@@ -174,7 +174,7 @@ function playSjmSound(){
 }
 
 function playReSound(){ 
-    let audio = new Audio("/audio/Resident Evil 2 Sound Effects - Title Voice _Resident Evil 2_.mp3");
+    let audio = new Audio("/projects/webcatalog/audio/Resident Evil 2 Sound Effects - Title Voice _Resident Evil 2_.mp3");
     audio.loop = false;
     audio.play(1)
     re.addEventListener("mouseout", stopReSound);
@@ -185,7 +185,7 @@ function playReSound(){
 }
 }
 function playDdSound(){ 
-    let audio = new Audio("/audio/Dark Deception Sounds 1_ Murder Monkey Screech.mp3");
+    let audio = new Audio("/projects/webcatalog/audio/Dark Deception Sounds 1_ Murder Monkey Screech.mp3");
     audio.loop = false;
     audio.play(1)
     dd.addEventListener("mouseout", stopDdSound);

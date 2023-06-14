@@ -21,12 +21,12 @@
     background-color: white;
 }
 .arrow-red-background{
-    background-image: url(/images/red\ arrow.png);
+    background-image: url(/projects/vier/images/red\ arrow.png);
     background-repeat: no-repeat;
     background-size: 150px, cover;
 }
 .arrow-yellow-background{
-    background-image: url(/images/yellow\ arrow.png);
+    background-image: url(/projects/vierimages/yellow\ arrow.png);
     background-repeat: no-repeat;
     background-size: 150px, cover;
 }
@@ -46,7 +46,7 @@
     margin-left: 30%;
 }
 body{
-    background-image: url(/images/background.png);
+    background-image: url(/projects/vier/images/background.png);
     background-size:100%, 900px;
     height: 1000px;
 }
@@ -88,7 +88,7 @@ body{
 }
 
 .box{
-    background-image: url(/images/box\ background.png);
+    background-image: url(/projects/vier/images/box\ background.png);
     background-color: rgb(104, 104, 251);
     background-size: 100%;
     background-repeat: no-repeat;

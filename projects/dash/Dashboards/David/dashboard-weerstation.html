@@ -19,7 +19,7 @@
     integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous">
   </script>
   <!-- eigen js -->
-  <script defer src="/js/weerstation.js"></script>
+  <script defer src="/projects/dash/js/weerstation.js"></script>
   <!-- favicon -->
   <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/84/84555.png" type="image/x-icon">
   <!-- chart js -->
@@ -53,10 +53,22 @@
     </div>
   </nav>
 
-  <div class="container">
+  <div class="container text-white">
     <div class="row">
-      <div class="col-md-4">
-        <canvas class="chart"></canvas>
+      <div class="col-md-3">Zoek naar een stad om het weer daar te bekijken.</div>
+      <div class="col-md-3"><input type="text"
+        class="form-control city-input" name="" id="" aria-describedby="helpId" placeholder="Stad"></div>
+        <div class="col-md-3"><button class="search-button">zoek</button></div>
+    </div>
+    <div class="row text">
+
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+          <canvas class="chart-one"></canvas>
+      </div>
+      <div class="col-md-6">
+        <canvas class="chart-two"></canvas>
       </div>
     </div>
   </div>

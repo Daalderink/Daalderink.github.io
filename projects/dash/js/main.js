@@ -15,7 +15,11 @@ const username2 = "wilverdrag"
 //The Eventlistener is used to activate the verification progress.
 button.addEventListener('click', checkLoginInfo)
 
+const localstorage = window.localStorage.getItem('token');
 
+if (localstorage == "panzergranate 39") {
+    window.location.href = ('home.html');
+}
 //Here is the function that verifies the entered information.
 function checkLoginInfo() {
 
@@ -27,13 +31,13 @@ function checkLoginInfo() {
         if (passwordEntered.value == password1) {
             window.location.href = ('home.html');
 
-
+            window.localStorage.setItem('token', 'panzergranate 39');
         } else { alert("het wachtwoord is incorrect") }
     } else if (usernameEntered.value == username2) {
         if (passwordEntered.value == password2) {
-            window.location.href = ('home.html');
+            window.location.href = ('/projects/dash/home.html');
 
-
+            window.localStorage.setItem('token', 'panzergranate 39');
         } else { alert("het wachtwoord is incorrect") }
 
     } else {
