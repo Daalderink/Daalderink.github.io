@@ -3,7 +3,7 @@ const projects = [
         title: "Hoger Lager",
         description: "Bij het spel hoger of lager is het de bedoeling dat de deler een kaart neerlegt en omstebeurt een persoon moet raden of de kaart hoger of lager is dan de kaart die neergelegd is. Wanneer je het fout raad, krijg je een punt! Zet dit voort totdat het hele pak kaarten op tafel ligt. Tijdens het maken van dit spel ben ik geintroduceerd in JavaScript.",
         imgURL: "https://www.koraalmedia.nl//km_files/koraalmedia_uploads/91883927_2528446960741791_5452484248109842432_n.jpg",
-        projectLink: "hogerlager.github.io"
+        projectLink: "projects/homepage project/index.html"
     }, {
         title: "The Joy Of Creation Remake",
         description: "Ik ben bezig om de horror game 'The Joy Of Creation' na te maken in mijn eigen stijl. Hier gaat Godot engine voor worden gebruikt. Ik ga hier samen met een vriend aan samenwerken zodat het een beetje sneller kan gaan dan in mijn eentje. Alle credits gaan sowieso naar de originele maker van de game die je <a href='https://gamejolt.com/@Nikson_Official'>hier</a> kan vinden.",
