@@ -14,9 +14,9 @@ const projects = [
         imgURL: "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2014_23/491626/140606-slender-man-mn-735.jpg",
         projectLink: "https://gamejolt.com/games/slender_the_missing_soul-bf3gac/815259"
     }, {
-        title: "The Norse man",
-        description: "Ik ben van plan om een videogame te maken die te maken heeft met de Noorse mythologie. Het gaat gedeelte een beetje gebaseerd zijn op de nieuwere God of War games. Ik vind de Noorse mythologie zelf erg interessant om meer van te weten dus ik ben van plan om belangrijke Noorse mythologie gebeurtenissen erin te stoppen zoals Ragnarök.",
-        imgURL: "https://historyuk.s3.eu-west-2.amazonaws.com/s3fs-public/2022-02/norse%20mythology-min.jpg"
+        title: "The Fire Giant",
+        description: "Ik ben van plan om een videogame te maken die te maken heeft met de Noorse mythologie. Het gaat gedeeltelijk gebaseerd zijn op de nieuwere God of War games. Ik vind de Noorse mythologie zelf erg interessant en het lijkt mij erg leuk om er meer over te weten. Ik ben van plan om belangrijke gebeurtenissen uit de Noorse mythologie erin te stoppen zoals Ragnarök.",
+        imgURL: "https://dam.smashmexico.com.mx/wp-content/uploads/2020/07/Thor-ragnarok-pelicula-arte-conceptual-secuaces-surtur-cover.jpg"
     }, {
         title: "Webcatalogus",
         description: "Voor een schoolproject moest ik samen met een groepje werken. In dat groepje moesten we een webcatalogus maken van een van de paar onderwerpen die wij toegewezen kregen. Bij dit project moesten wij voor het eerst met bootstrap werken en moesten wij gebruik maken van fetch in javascript.",
