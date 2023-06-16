@@ -16,7 +16,8 @@ const projects = [
     }, {
         title: "The Fire Giant",
         description: "Ik ben van plan om een videogame te maken die te maken heeft met de Noorse mythologie. Het gaat gedeeltelijk gebaseerd zijn op de nieuwere God of War games. Ik vind de Noorse mythologie zelf erg interessant en het lijkt mij erg leuk om er meer over te weten. Ik ben van plan om belangrijke gebeurtenissen uit de Noorse mythologie erin te stoppen zoals Ragnarök.",
-        imgURL: "https://dam.smashmexico.com.mx/wp-content/uploads/2020/07/Thor-ragnarok-pelicula-arte-conceptual-secuaces-surtur-cover.jpg"
+        imgURL: "https://dam.smashmexico.com.mx/wp-content/uploads/2020/07/Thor-ragnarok-pelicula-arte-conceptual-secuaces-surtur-cover.jpg",
+        projectLink : "https://gamejolt.com/games/The_Fire_giant/815392"
     }, {
         title: "Webcatalogus",
         description: "Voor een schoolproject moest ik samen met een groepje werken. In dat groepje moesten we een webcatalogus maken van een van de paar onderwerpen die wij toegewezen kregen. Bij dit project moesten wij voor het eerst met bootstrap werken en moesten wij gebruik maken van fetch in javascript.",
