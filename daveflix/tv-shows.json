@@ -1,13 +1,45 @@
 {
-    "tv-shows" : [
+    "shows" : [
         {
-            "title" : "",
-            "seasons" : "",
-            "episodes" : "",
-            "franchise" : "s",
+            "title" : "Breaking Bad",
+            "seasons" : "5",
+            "episodes" : "62",
+            "franchise" : "Breaking Bad",
             "link" : "",
             "img" : "",
-            "bannerimg" : ""
+            "bannerimg" : "https://occ-0-769-768.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZi_RqpT84KU9PuLqluo8QNslnXT8Hu2_bME3ez2GFxUqc-CdICtULofUMFIpTV_EO1tghUWNSLzXeqhWzYDdSL2ifiUB0eKrn8.webp?r=01d"
+        },{
+            "title" : "Better Call saul",
+            "seasons" : "6",
+            "episodes" : "63",
+            "franchise" : "Breaking Bad",
+            "link" : "",
+            "img" : "",
+            "bannerimg" : "https://occ-0-769-768.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABb23UfK2ybvFeaezXTi5G2rR2W9Mhd3PwEwq1THSMLPxBcNm7a90G4v0o8KDSI01Z-q2FsNk4b-NYyUdiAQYxSB2k8xZh8324lo-WkJGiUZXcp9aC1sLrxp6FuUe7tQPQtZk.jpg?r=90f"
+        },{
+            "title" : "Peaky Blinders",
+            "seasons" : "6",
+            "episodes" : "36",
+            "franchise" : "peaky blinders",
+            "link" : "",
+            "img" : "",
+            "bannerimg" : "https://occ-0-769-768.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABeqfT2_-pIeAnhkqj0GpudyhvXhx94AqyF9tkpneVdXu-3OATs6WlyyJJGhDCI9f8aYJJShAluJXN888F2NuB1cdlle-7Ky89bq8VkR-ilzL8yy5sT_4nUedoHC5jun8INFE.jpg?r=a07"
+        },{
+            "title" : "Godzilla: Singular Point",
+            "seasons" : "1",
+            "episodes" : "10",
+            "franchise" : "Godzilla",
+            "link" : "",
+            "img" : "",
+            "bannerimg" : "https://occ-0-769-768.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABYZ2eRll3gT615kvkwl1YPS0nUaaGDX1Yna8lttL2e-tF2hX3Hkw6IQ7NtTzZWqxR6fjOe7qJ8gLDmyhqvSDt4XIBMvWEmAzRoaAm25heCS4l2sS5cF5087Zwgs76O_S-MJO.jpg?r=7e8"
+        },{
+            "title" : "Stranger Things",
+            "seasons" : "4",
+            "episodes" : "34",
+            "franchise" : "Stranger Things",
+            "link" : "",
+            "img" : "",
+            "bannerimg" : "https://occ-0-769-768.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdTaFUt74e0yoFwDZ5X9qOIKr5tOFVksI4lrbXzP7P5pMkcoa4ALj4aqAhzOopDeJiLjHxjO_zdGflZV1GZRNdNNiJegwBGeu-0Iax5BLNol0aXNBH24-BpNc9nh9pow7RVi.jpg?r=92f"
         }
     ]
 }
