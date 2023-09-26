@@ -1,0 +1,54 @@
+{
+    "movies" : [
+        {
+            "name" : "Transformers",
+            "length" : "143min",
+            "franchise" : "Transformers",
+            "link" : "",
+            "img" : "",
+            "bannerimg" : "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg"
+        },{
+            "name" : "Transformers: Revenge of the Fallen",
+            "length" : "150min",
+            "franchise" : "Transformers",
+            "link" : "",
+            "bannerimg" : "https://images5.fanpop.com/image/photos/25700000/Transformers-2-Megan-Fox-is-Back-movies-cars-guns-backgrounds-25784475-1920-1200.jpg"
+        },{
+            "name" : "Transformers: Dark of the moon",
+            "length" : "154min",
+            "franchise" : "Transformers",
+            "link" : "",
+            "img" : "",
+            "bannerimg" : "https://e7x3x7m2.rocketcdn.me/wp-content/uploads/2011/07/transformers-3-optimus-prime-humans-1920x1080-3.jpg"
+        },{
+            "name" : "Transformers: Age of extinction",
+            "length" : "165min",
+            "franchise" : "Transformers",
+            "link" : "",
+            "bannerimg" : "https://cdn.mos.cms.futurecdn.net/7209eaedbddbd28a1212a1b1079e7135-1200-80.jpg"
+        },{
+            "name" : "Transformers: The last knight",
+            "length" : "155min",
+            "franchise" : "Transformers",
+            "link" : "",
+            "img" : "",
+            "bannerimg" : "https://w0.peakpx.com/wallpaper/509/933/HD-wallpaper-2017-transformers-the-last-knight-movie-bumblebbe-optimus-prime-transformers-the-last-knight-movies-transformers-5.jpg"
+        },{
+            "name" : "Bumblebee",
+            "length" : "113min",
+            "franchise" : "Transformers",
+            "link" : "",
+            "img" : "",
+            "bannerimg" : "https://images.hdqwalls.com/wallpapers/bumblebee-movie-poster-2018-of.jpg"
+        },{
+            "name" : "Transformers: Rise of the beasts",
+            "length" : "143min",
+            "franchise" : "Transformers",
+            "link" : "",
+            "img" : "",
+            "bannerimg" : "https://movies.sterkinekor.co.za/CDN/media/entity/get/FilmTitleGraphic/HO00002713?referenceScheme=HeadOffice&allowPlaceHolder=true"
+        }
+    ]
+
+    
+}
