@@ -11,8 +11,9 @@ function showmusic(data){
             <img class="card-img-top" src="${song.albumimg}" alt="Title">
             <div class="card-body">
                 <h4 class="card-title">${song.title}</h4>
-                <p class="card-text">franchise: ${song.releaseyear}<br>
-                duur: ${song.artist}<br>
+                <p class="card-text">uitgebracht in: ${song.releaseyear}<br>
+                artiest: ${song.artist}<br>
+                album: ${song.album}<br>
                 <a href="${song.link}"><button>bekijken</button></a>
                 </p>
             </div>
