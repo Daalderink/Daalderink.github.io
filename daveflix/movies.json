@@ -6,7 +6,8 @@
             "franchise" : "Transformers",
             "link" : "",
             "img" : "",
-            "bannerimg" : "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg"
+            "bannerimg" : "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
+            "releaseyear": "2007"
         },{
             "title" : "Transformers: Revenge of the Fallen",
             "length" : "150min",

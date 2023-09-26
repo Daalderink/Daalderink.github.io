@@ -1,0 +1,54 @@
+{
+    "music": [
+        {
+            "title" : "Du Hast",
+            "link" : "/daveflix/music/du-hast.mp3",
+            "releaseyear" : "1997",
+            "album" : "sehnsucht",
+            "artist" : "Rammstein",
+            "albumimg" : "https://m.media-amazon.com/images/I/81gnPTo+hOL._UF1000,1000_QL80_.jpg"
+        },{
+            "title" : "ich will",
+            "link" : "/daveflix/music/ich-will.mp3",
+            "releaseyear" : "2001",
+            "album" : "Mutter",
+            "artist" : "Rammstein",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/5/5e/Mutter.jpg"
+        },{
+            "title" : "Engel",
+            "link" : "/daveflix/music/engel.mp3",
+            "releaseyear" : "1997",
+            "album" : "sehnsucht",
+            "artist" : "Rammstein",
+            "albumimg" : "https://m.media-amazon.com/images/I/81gnPTo+hOL._UF1000,1000_QL80_.jpg"
+        },{
+            "title" : "Amerika",
+            "link" : "/daveflix/music/amerika.mp3",
+            "releaseyear" : "2004",
+            "album" : "reise reise",
+            "artist" : "Rammstein",
+            "albumimg" : "https://m.media-amazon.com/images/I/71UUDoy88VL._UF1000,1000_QL80_.jpg"
+        },{
+            "title" : "mein hertz brennt",
+            "link" : "/daveflix/music/mein-hertz-brennt.mp3",
+            "releaseyear" : "2001",
+            "album" : "Mutter",
+            "artist" : "Rammstein",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/5/5e/Mutter.jpg"
+        },{
+            "title" : "sonne",
+            "link" : "/daveflix/music/sonne.mp3",
+            "releaseyear" : "2001",
+            "album" : "Mutter",
+            "artist" : "Rammstein",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/5/5e/Mutter.jpg"
+        },{
+            "title" : "Mutter",
+            "link" : "/daveflix/music/mutter.mp3",
+            "releaseyear" : "2001",
+            "album" : "Mutter",
+            "artist" : "Rammstein",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/5/5e/Mutter.jpg"
+        }
+    ]
+}
