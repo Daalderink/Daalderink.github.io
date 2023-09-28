@@ -49,6 +49,27 @@
             "album" : "Mutter",
             "artist" : "Rammstein",
             "albumimg" : "https://upload.wikimedia.org/wikipedia/en/5/5e/Mutter.jpg"
+        },{
+            "title" : "Ohne dich",
+            "link" : "/daveflix/music/ohne-dich.mp3",
+            "releaseyear" : "2004",
+            "album" : "reise reise",
+            "artist" : "Rammstein",
+            "albumimg" : "https://m.media-amazon.com/images/I/71UUDoy88VL._UF1000,1000_QL80_.jpg"
+        },{
+            "title" : "reise reise",
+            "link" : "/daveflix/music/reise-reise.mp3",
+            "releaseyear" : "2004",
+            "album" : "reise reise",
+            "artist" : "Rammstein",
+            "albumimg" : "https://m.media-amazon.com/images/I/71UUDoy88VL._UF1000,1000_QL80_.jpg"
+        },{
+            "title" : "links 2 3 4",
+            "link" : "/daveflix/music/links-2-3-4.mp3",
+            "releaseyear" : "2004",
+            "album" : "reise reise",
+            "artist" : "Rammstein",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/5/5e/Mutter.jpg"
         }
     ]
 }
