@@ -14,7 +14,9 @@ function showmusic(data){
                 <p class="card-text">uitgebracht in: ${song.releaseyear}<br>
                 artiest: ${song.artist}<br>
                 album: ${song.album}<br>
-                <a href="${song.link}"><button>beluisteren</button></a>
+                <audio controls>
+                    <source src='${song.link}' type='audio/mpeg'>
+                </audio>
                 </p>
             </div>
         </div></div>`
