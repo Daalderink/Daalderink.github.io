@@ -5,7 +5,6 @@
             "length" : "143min",
             "franchise" : "Transformers",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
             "releaseyear": "2007"
         },{
@@ -19,7 +18,6 @@
             "length" : "154min",
             "franchise" : "Transformers",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://e7x3x7m2.rocketcdn.me/wp-content/uploads/2011/07/transformers-3-optimus-prime-humans-1920x1080-3.jpg"
         },{
             "title" : "Transformers: Age of extinction",
@@ -32,91 +30,78 @@
             "length" : "155min",
             "franchise" : "Transformers",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://w0.peakpx.com/wallpaper/509/933/HD-wallpaper-2017-transformers-the-last-knight-movie-bumblebbe-optimus-prime-transformers-the-last-knight-movies-transformers-5.jpg"
         },{
             "title" : "Bumblebee",
             "length" : "113min",
             "franchise" : "Transformers",
             "link" : "/daveflix/movies/videoplayback.mp4",
-            "img" : "",
             "bannerimg" : "https://images.hdqwalls.com/wallpapers/bumblebee-movie-poster-2018-of.jpg"
         },{
             "title" : "Transformers: Rise of the beasts",
-            "length" : "143min",
+            "length" : "122min",
             "franchise" : "Transformers",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://movies.sterkinekor.co.za/CDN/media/entity/get/FilmTitleGraphic/HO00002713?referenceScheme=HeadOffice&allowPlaceHolder=true"
         },{
             "title" : "Godzilla",
             "length" : "",
             "franchise" : "Godzilla",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://imageio.forbes.com/blogs-images/daviddisalvo/files/2014/05/2014-Godzilla-Movie-Teaser-Poster-Wallpaper-HDr.jpg?format=jpg&width=1200"
         },{
             "title" : "Godzilla: King of the monsters",
             "length" : "",
             "franchise" : "Godzilla",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://mir-s3-cdn-cf.behance.net/project_modules/1400/76b93774022631.5c1db81653e53.jpg"
         },{
             "title" : "Godzilla vs Kong",
             "length" : "113min",
             "franchise" : "Godzilla",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://i.ytimg.com/vi/odM92ap8_c0/maxresdefault.jpg"
         },{
             "title" : "The Suicide Squad",
             "length" : "132min",
             "franchise" : "DC",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://www.popvaulture.nl/wp-content/uploads/2021/09/The-Suicide-Squad.jpg"
         },{
             "title" : "Avengers: Ininity War",
             "length" : "150min",
             "franchise" : "Marvel",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://static1.srcdn.com/wordpress/wp-content/uploads/2018/03/Avengers-Infinity-War-official-poster.jpg"
         },{
             "title" : "Black Panther",
             "length" : "134min",
             "franchise" : "Marvel",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/12/Featured-Black-Panther-Poster-Hidden-Details.jpg"
         },{
             "title" : "TRON: Legacy",
             "length" : "125min",
             "franchise" : "TRON",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://m.media-amazon.com/images/M/MV5BZDU0ZTVmOGYtMmVhNC00YjBmLWFjYzctZTU2Y2JkYzNhZWZiXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg"
         },{
             "title" : "Godzilla: Planet of the monsters",
             "length" : "88min",
             "franchise" : "Godzilla",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://occ-0-64-300.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQgRBBFVtPeXvklX36Ijs8lwJdaynyjZl_G8oC_dqZGKCB1I4Oe3LbYV4BUv51ul2C1m_29E6I4zz5TKFckKQK4bJjbiECitioMIbhw3AEynIK4YR1T6sdq8LrQbSrobiQxqdw.jpg?r=e4f"
         },{
             "title" : "Godzilla: City of the edge of battle",
             "length" : "100min",
             "franchise" : "Godzilla",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://www.mymetmedia.com/wp-content/uploads/2018/08/godzilla__city_on_the_edge_of_battle_by_godzilla_image-dc6eas5.jpg"
         },{
             "title" : "Godzilla: The planet eater",
             "length" : "90min",
             "franchise" : "Godzilla",
             "link" : "",
-            "img" : "",
             "bannerimg" : "https://m.media-amazon.com/images/M/MV5BMWQ2Y2M3NWMtN2RhNS00MDUxLWEyMGYtMmNmYTA0Y2Y3MGJiXkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_.jpg"
         }
     ]
