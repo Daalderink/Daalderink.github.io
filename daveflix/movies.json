@@ -62,6 +62,12 @@
             "link" : "",
             "bannerimg" : "https://i.ytimg.com/vi/odM92ap8_c0/maxresdefault.jpg"
         },{
+            "title" : "Kong: Skull Island",
+            "length" : "",
+            "franchise" : "Godzilla",
+            "link" : "",
+            "bannerimg" : "https://m.media-amazon.com/images/S/pv-target-images/b8bb5b24474f85a7fbba3ca2d64bc5ba82fb5b7bbb7fab0c95d44aa8f50d3b2a.jpg"
+        },{
             "title" : "The Suicide Squad",
             "length" : "132min",
             "franchise" : "DC",
@@ -103,6 +109,30 @@
             "franchise" : "Godzilla",
             "link" : "",
             "bannerimg" : "https://m.media-amazon.com/images/M/MV5BMWQ2Y2M3NWMtN2RhNS00MDUxLWEyMGYtMmNmYTA0Y2Y3MGJiXkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_.jpg"
+        },{
+            "title" : "Blade Runner 2049",
+            "length" : "90min",
+            "franchise" : "Godzilla",
+            "link" : "",
+            "bannerimg" : "https://m.media-amazon.com/images/S/pv-target-images/cfde75bd6b8cff1a5a590cfae68917fb87b1c7dab046275a654b67f34a76af0e.jpg"
+        },{
+            "title" : "Interstellar",
+            "length" : "90min",
+            "franchise" : "Godzilla",
+            "link" : "",
+            "bannerimg" : "https://gray-wave-prod.cdn.arcpublishing.com/resizer/NbYpkYAiM7VZhf6b3msqeo2fs6s=/1920x1080/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/GWXL4GJ4BRGG3ORNX4QYOGHJPE.jpg"
+        },{
+            "title" : "Top Gun: Maverick",
+            "length" : "90min",
+            "franchise" : "Top Gun",
+            "link" : "",
+            "bannerimg" : "https://savethecat.com/wp-content/uploads/2022/09/Top-Gun-Maverick-movie-top-678x381-1.jpeg"
+        },{
+            "title" : "Shin Godzilla",
+            "length" : "90min",
+            "franchise" : "Godzilla",
+            "link" : "",
+            "bannerimg" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/21907feaa299ecdc23d6e64e59b45002.jpe"
         }
     ]
 
