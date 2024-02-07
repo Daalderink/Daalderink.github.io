@@ -70,6 +70,76 @@
             "album" : "reise reise",
             "artist" : "Rammstein",
             "albumimg" : "https://upload.wikimedia.org/wikipedia/en/5/5e/Mutter.jpg"
+        },{
+            "title" : "Around the World",
+            "link" : "/daveflix/music/around-the-world.mp3",
+            "releaseyear" : "1997",
+            "album" : "Homework",
+            "artist" : "Daft Punk",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/9/9c/Daftpunk-homework.jpg"
+        },{
+            "title" : "Teachers",
+            "link" : "/daveflix/music/Teachers.mp3",
+            "releaseyear" : "1997",
+            "album" : "Homework",
+            "artist" : "Daft Punk",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/9/9c/Daftpunk-homework.jpg"
+        },{
+            "title" : "Da Funk",
+            "link" : "/daveflix/music/da-funk.mp3",
+            "releaseyear" : "1997",
+            "album" : "Homework",
+            "artist" : "Daft Punk",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/9/9c/Daftpunk-homework.jpg"
+        },{
+            "title" : "Veridis Quo",
+            "link" : "/daveflix/music/Veridis-Quo.mp3",
+            "releaseyear" : "2001",
+            "album" : "Discovery",
+            "artist" : "Daft Punk",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/2/27/Daft_Punk_-_Discovery.png"
+        },{
+            "title" : "One More Time",
+            "link" : "/daveflix/music/One-More-Time.mp3",
+            "releaseyear" : "2001",
+            "album" : "Discovery",
+            "artist" : "Daft Punk",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/2/27/Daft_Punk_-_Discovery.png"
+        },{
+            "title" : "Infinity Repeating(2013 demo)",
+            "link" : "/daveflix/music/infinity-repeating.mp3",
+            "releaseyear" : "2023",
+            "album" : "Random Access Memories(10th Anniversary)",
+            "artist" : "Daft Punk",
+            "albumimg" : "https://media.pitchfork.com/photos/63f63cd11c6aa668441978b3/master/w_1280%2Cc_limit/Daft-Punk.jpg"
+        },{
+            "title" : "Get Lucky",
+            "link" : "/daveflix/music/Get-Lucky.mp3",
+            "releaseyear" : "2013",
+            "album" : "Random Access Memories",
+            "artist" : "Daft Punk",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/2/26/Daft_Punk_-_Random_Access_Memories.png"
+        },{
+            "title" : "Face to Face",
+            "link" : "/daveflix/music/Face-to-Face.mp3",
+            "releaseyear" : "2001",
+            "album" : "Discovery",
+            "artist" : "Daft Punk",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/2/27/Daft_Punk_-_Discovery.png"
+        },{
+            "title" : "The Brainwasher",
+            "link" : "/daveflix/music/The-Brainwasher.mp3",
+            "releaseyear" : "1997",
+            "album" : "Human After All",
+            "artist" : "Daft Punk",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/0/0d/Humanafterall.jpg"
+        },{
+            "title" : "Technologic",
+            "link" : "/daveflix/music/Technologic.mp3",
+            "releaseyear" : "2004",
+            "album" : "Human After All",
+            "artist" : "Daft Punk",
+            "albumimg" : "https://upload.wikimedia.org/wikipedia/en/0/0d/Humanafterall.jpg"
         }
     ]
 }
