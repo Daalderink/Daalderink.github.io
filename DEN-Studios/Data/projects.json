@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "title": "SCP: The Breach",
+            "description": "My own version of SCP Containment Breach.",
+            "img": "https://daalderink.github.io/img/scp%20the%20breach%20banner.png",
+            "link": "https://gamejolt.com/games/scpthebreach/896847",
+            "releasedate": "Unknown",
+            "version": "0.0"
+        },
+        {
+            "title": "Slender: The Missing Soul",
+            "description": "A game we made as a school project that became such a good idea we decided to finish it and upload it.",
+            "img": "https://daalderink.github.io/img/poster1.png",
+            "link": "https://gamejolt.com/games/slender_the_missing_soul/815259",
+            "releasedate": " 7-2-2023",
+            "version": "1.0"
+        },
+        {
+            "title": "Escape The Cabin",
+            "description": "",
+            "img": "https://daalderink.github.io/img/scp%20the%20breach%20banner.png",
+            "link": "",
+            "releasedate": "Unknown",
+            "version": "0.0"
+        }
+    ]
+}
