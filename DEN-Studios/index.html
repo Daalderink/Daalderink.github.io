@@ -16,12 +16,14 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-danger bg-danger">
             <div class="container">
-                <a class="navbar-brand" href="https://gamejolt.com/c/slender_the_missing_soul-bf3gac">DEN Studio's</a>
+                <a class="navbar-brand" href="https://gamejolt.com/c/slender_the_missing_soul-bf3gac"></a><img src="/img/DEN Studios logo.png" height="66px" width="81px"></a>
+                
                 <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false"
                     aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+                
                 <div class="collapse navbar-collapse" id="collapsibleNavId">
                     <ul class="navbar-nav me-auto mt-2 mt-lg-0">
                         <li class="nav-item">
@@ -31,14 +33,13 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/DEN-Studios/projects/">Projects</a>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-bs-toggle="dropdown"
-                                aria-haspopup="true" aria-expanded="false">Dropdown</a>
-                            <div class="dropdown-menu" aria-labelledby="dropdownId">
-                                <a class="dropdown-item" href="/DEN-Studios/projects/">Profile</a>
-                                <a class="dropdown-item" href="#">About me</a>
-                            </div>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/DEN-Studios/profile/">Profile</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/DEN-Studios/socials/">Socials</a>
+                        </li>
+                        
                     </ul>
 
                 </div>
@@ -46,7 +47,44 @@
         </nav>
 
     </header>
-    <main></main>
+    <main class="container">
+        <h1 class="text-center">Welcome to my portfolio website</h1>
+        <p class="text-center">
+            This is my portfolio website where you can see what i am working, what i have worked on in the past and you can get to know more about me.
+        </p>
+        <h2 class="text-center">Check out one of these pages</h2>
+        <section class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="" title="projects banner" alt="projects banner" />
+                    <div class="card-body">
+                        <h4 class="card-title">Want to know about what i'm working on? Check out my projects</h4>
+                        <a href="projects/"><button class="btn btn-danger">Projects</button></a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="" title="profile banner" alt="profile banner" />
+                    <div class="card-body">
+                        <h4 class="card-title">Want to know more about me? Check out my profile</h4>
+                        <a href="aboutme/"><button class="btn btn-danger">Profile</button></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="" title="socials banner" alt="socials banner" />
+                    <div class="card-body">
+                        <h4 class="card-title">Want to know when i update a project? Check out my socials</h4>
+                        <a href="socials/"><button class="btn btn-danger">Socials</button></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
     <footer>
         <!-- place footer here -->
     </footer>

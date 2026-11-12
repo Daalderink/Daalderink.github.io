@@ -2,27 +2,35 @@
     "projects": [
         {
             "title": "SCP: The Breach",
-            "description": "My own version of SCP Containment Breach.",
+            "description": "My own version of SCP Containment Breach. ",
             "img": "https://daalderink.github.io/img/scp%20the%20breach%20banner.png",
             "link": "https://gamejolt.com/games/scpthebreach/896847",
             "releasedate": "Unknown",
-            "version": "0.0"
+            "version": "early alpha"
         },
         {
             "title": "Slender: The Missing Soul",
             "description": "A game we made as a school project that became such a good idea we decided to finish it and upload it.",
             "img": "https://daalderink.github.io/img/poster1.png",
             "link": "https://gamejolt.com/games/slender_the_missing_soul/815259",
-            "releasedate": " 7-2-2023",
+            "releasedate": " 2-7-2023",
             "version": "1.0"
         },
         {
             "title": "Escape The Cabin",
-            "description": "",
+            "description": "This is an escape room game where you are trapped in a cabin and have to find a way to get out.",
             "img": "https://daalderink.github.io/img/scp%20the%20breach%20banner.png",
             "link": "",
             "releasedate": "Unknown",
-            "version": "0.0"
+            "version": "early alpha"
+        },
+        {
+            "title": "Five Shifts At Freddy's",
+            "description": "This is an escape room game where you are trapped in a cabin and have to find a way to get out.",
+            "img": "https://daalderink.github.io/img/scp%20the%20breach%20banner.png",
+            "link": "",
+            "releasedate": "Unknown",
+            "version": "early alpha"
         }
     ]
 }
